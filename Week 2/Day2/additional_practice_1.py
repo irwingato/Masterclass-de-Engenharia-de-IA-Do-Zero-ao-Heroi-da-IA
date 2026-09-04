@@ -22,7 +22,8 @@ print("--- Estatísticas (Média) ---")
 # Reduz o eixo 0 (entre as matrizes) -> Resultado será (3, 4)
 # Calcula a média colapsando o primeiro eixo (as 2 matrizes). NumPy soma e
 # divide os elementos na mesma posição entre as matrizes, gerando um array
-# de formato (3, 4).
+# de formato (3, 4).cls
+
 print("Média ao longo do Eixo 0 (colapsa profundidade):")
 print(np.mean(array_3d, axis=0))
 
