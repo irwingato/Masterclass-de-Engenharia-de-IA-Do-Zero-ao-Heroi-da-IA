@@ -1,0 +1,16 @@
+# Datasets grandes (bloqueiam o push no GitHub)
+Week 10/Day1/data/
+cifar-10-python.tar.gz
+*.tar.gz
+
+# Arquivos grandes / binários
+Code_files.zip
+*.zip
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
