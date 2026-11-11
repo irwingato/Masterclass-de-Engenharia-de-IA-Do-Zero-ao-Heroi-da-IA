@@ -1,5 +1,6 @@
 # Datasets grandes (bloqueiam o push no GitHub)
 Week 10/Day1/data/
+Week 10/Day5/data/
 cifar-10-python.tar.gz
 *.tar.gz
 
@@ -14,3 +15,7 @@ __pycache__/
 *.pyo
 .env
 .DS_Store
+
+# Pastas locais a ignorar
+.kilo/
+.freebuff/
