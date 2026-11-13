@@ -1,6 +1,7 @@
 # Datasets grandes (bloqueiam o push no GitHub)
 Week 10/Day1/data/
 Week 10/Day5/data/
+Week 10/Day7/data/
 cifar-10-python.tar.gz
 *.tar.gz
 
