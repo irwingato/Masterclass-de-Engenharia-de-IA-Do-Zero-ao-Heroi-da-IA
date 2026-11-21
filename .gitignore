@@ -9,6 +9,8 @@ cifar-10-python.tar.gz
 Code_files.zip
 *.zip
 *.pptx
+Week 11/Day5/glove.6B.100d
+Week 11/Day5/glove.6B.100D.txt
 
 # Python
 __pycache__/
